@@ -1,0 +1,4 @@
+After you have finished setting up mpv with my config, play a video. Once you have opened a video file, press "I" to check if HW: vulkan displays correctly. If this is missing, your video card doesn't support vulkan and you must change it to vaapi in the mpv.config file.
+
+
+If you plan to stream mpv on Discord for example, please use ao=pulse.
